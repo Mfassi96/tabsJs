@@ -253,6 +253,7 @@ About
 .tab-btn.active {
   background: var(--clr-white);
 }
-.content.active {
+.content.active{
   display: block;
+  
 }
